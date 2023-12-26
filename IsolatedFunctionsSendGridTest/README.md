@@ -11,3 +11,5 @@
 [2023-12-26T09:42:00.063Z] Executed 'Functions.TestSendGrid' (Failed, Id=28a88f22-744b-4668-9113-4f3370158afa, Duration=222ms)
 [2023-12-26T09:42:00.064Z] System.Private.CoreLib: Exception while executing function: Functions.TestSendGrid. Microsoft.Azure.WebJobs.Extensions.SendGrid: A 'To' address must be specified for the message.
 ```
+
+https://github.com/Azure/azure-functions-dotnet-worker/issues/737
